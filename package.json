@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "app-root-dir": "^1.0.2",
-    "electron-log": "^3.0.6",
+    "electron-log": "^5.0.0",
     "electron-settings": "^4.0.2",
     "electron-squirrel-startup": "^1.0.0",
     "instagram-private-api": "^1.45.2"
